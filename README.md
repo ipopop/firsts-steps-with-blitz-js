@@ -1,10 +1,4 @@
-# firsts-steps-with-blitz-js
-
-[![Blitz.js](https://raw.githubusercontent.com/blitz-js/art/master/github-cover-photo.png)](https://blitzjs.com)
-
-This is a [Blitz.js](https://github.com/blitz-js/blitz) app.
-
-# **myNewAppBlitzJS**
+# <h1 align="center">Welcome to my first test of [Blitz.js](https://github.com/blitz-js/blitz) 👋</h1>
 
 ## Getting Started
 
@@ -173,3 +167,21 @@ The Blitz community is warm, safe, diverse, inclusive, and fun! Feel free to rea
 - [Forum discussions](https://github.com/blitz-js/blitz/discussions)
 - [How to Contribute](https://blitzjs.com/docs/contributing)
 - [Sponsor or donate](https://github.com/blitz-js/blitz#sponsors-and-donations)
+
+
+---
+## Author
+
+👤 **eb-dev**
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [eb-dev](https://github.com/ipopop).<br />
+This project is [MIT](https://en.wikipedia.org/wiki/MIT_License) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
